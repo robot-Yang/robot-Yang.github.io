@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2021-11-01 07:59:00-0400
 inline: true
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+I am selected as JST SPRING Fellowship Qualified Students (Class 1). The fellowship period is 2021/10/01 ~ 2022/03/31.! :sparkles: :smile:

@@ -1,31 +1,30 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+title: My first journal paper is published in IEEE/ASME Transactions on Mechatronics!
+date: 2021-08-07 16:11:00-0400
 inline: false
 ---
 
-Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
+The final edited version of our work "Virtual Landmark-Based Control of Docking Support for Assistive Mobility Devices" was just published in <a href="https://ieeexplore.ieee.org/document/9435096?source=">IEEE/ASME Transactions on Mechatronics</a> .
 
 ***
 
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
+This article proposes an autonomous docking control for nonholonomic constrained mobile robots and applies it to an intelligent mobility device or wheelchair for assisting the user in approaching resting furniture such as a chair or a bed. We defined a virtual landmark inferred from the target docking destination. Then, we solve the problem of keeping the targeted volume inside the field of view (FOV) of a tracking camera and docking to the virtual landmark through a novel definition that enables to control for the desired end pose. In this article, we proposed a nonlinear feedback controller to perform the docking with the depth camera's FOV as a constraint.Then, a numerical method is proposed to find the feasible space of initial states where convergence could be guaranteed. Finally, the entire system was embedded for real-time operation on a standing wheelchair with the virtual landmark estimation by three-dimensional object tracking with an RGB-D camera and we validated the effectiveness in simulation and experimental evaluations. The results show the guaranteed convergence for the feasible space depending on the virtual landmark location. In the implementation, the robot converges to the virtual landmark while respecting the FOV constraints.
 
-#### Hipster list
+#### Keywords:
 <ul>
-    <li>brunch</li>
-    <li>fixie</li>
-    <li>raybans</li>
-    <li>messenger bag</li>
+    <li>Autonomous docking</li>
+    <li>field-of-view (FOV)</li>
+    <li>human-assistive robot</li>
+    <li>mobile robot control</li>
+    <li>virtual landmark</li> 
 </ul>
 
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
-
 ***
 
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
+Our presentation video at IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM2021), JULY 12-16, Virtual Conference hosted by TU Delft, Delft.
+[Link here](https://www.youtube.com/watch?v=p6DzbjV6w4c&t=4s).
 
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
+<!-- > We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
 > —Anais Nin
-
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
+ -->

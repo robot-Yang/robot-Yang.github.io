@@ -14,15 +14,15 @@
       year: 2023
       description:
         - Supervised by Prof. <a href="http://www.ai.iit.tsukuba.ac.jp/kenji/index.html">Kenji Suzuki</a>, Aritificial Intelligence Laboratory
-        - title: Research topic
+        - title: Thesis title
           contents:
-            - Upper body Based Human-machine Shared Control for Assistive Mobility Devices
+            - A Study on Upper-body based Shared Navigation Control for Assistive Mobility Devices (支援モビリティのための上体によるナビゲーション共有制御に関する研究)
     - title: Bachelor in Engineering
       institution: Jilin University, Changchun, China
       year: 2017
       description:
         - Supervised by Prof. <a href="https://teachers.jlu.edu.cn/dongfwang">DongF. Wang</a>, JML
-        - title: Research topic
+        - title: Thesis title
           contents:
           - Explore the Way of Designing the Piezoelectric Dividing Structure to Both Realize the Stress Distributing Evenly and Achieve Largest Output Voltage
 

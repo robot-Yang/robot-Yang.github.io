@@ -9,7 +9,7 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
+    - title: Ph. D. in Human Informatics
       institution: University of Tsukuba, Tsukuba, Japan
       year: 2023
       description:
@@ -42,7 +42,7 @@
       institution: National Institute of Advanced Industrial Science and Technology (AIST)
       year: Aug. 2021 - Present
       description:
-        - Supervised by Prof. <a href="https://unit.aist.go.jp/jrl-2/en/members/member-kanehiro.html">Fumio Kanehiro</a>, CNRS-AIST JRL (Joint Robotics Laboratory)
+        - Supervised by Prof. <a href="https://unit.aist.go.jp/jrl-2/en/members/member-kanehiro.html">Fumio Kanehiro</a>, <a href="https://unit.aist.go.jp/jrl-22022/index_en.html">CNRS-AIST JRL</a> (Joint Robotics Laboratory).
         - title: Research topic
           contents:
             - Complementary SLAM for Immersive Teleoperation with A Humanoid

@@ -18,5 +18,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a robotics researcher, interested in human-robot interaction, mobile robotics, teleoperation, human sensing, assistive technology, etc. Currently, I am enrolled in Ph. D program in Empowerment informatics. I expect to graduate in March 2023.
+I am a robotics researcher. Currently, I am enrolled in Ph. D program in Empowerment Informatics at University of Tsukuba and research fellow (DC2) of Japan Society for the Promotion of Science (JSPS). I expect to graduate in March 2023. My research interest includes human-robot interaction, mobile robotics, teleoperation, human sensing, assistive technology, etc.  
+Research goal: Use robotics technology to empower humans.
 

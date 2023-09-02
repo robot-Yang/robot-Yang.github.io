@@ -6,7 +6,7 @@ subtitle: JSPS research fellow (PD).
 
 profile:
   align: right
-  image: head_photo.jpg
+  image: yang_chen-0542_short.jpg
   image_circular: false # crops the image to make it circular
   address: 
     # <p>Artificial Intelligence Laboratory</p>
@@ -18,6 +18,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a robotics researcher and life-long learner. Currently, I am enrolled in Ph. D program in Empowerment Informatics at University of Tsukuba and research fellow (DC2) of Japan Society for the Promotion of Science (JSPS). I expect to graduate in March 2023. My research interests include but are not limited to human-robot interaction, mobile robotics, teleoperation, human sensing, assistive technology, etc.  
+I am a robotics researcher and life-long learner. I obtained Ph. D. degree in human informatics from University of Tsukuba in March 2023 and currently working as research fellow (PD) of Japan Society for the Promotion of Science (JSPS). My research interests include but are not limited to human augmentation, human-robot interaction, mobile robotics, teleoperation, human sensing, assistive technology, etc.
 Research goal: Use robotics technology to empower humans.
 

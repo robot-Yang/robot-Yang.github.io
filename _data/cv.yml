@@ -50,6 +50,9 @@
 - title: Working Experience
   type: time_table
   contents:
+    - title: Post-doc
+      institution: University of Tsukuba
+      year: Apr. 2024 - Mar. 2025
     - title: Visiting post-doc
       institution: ETH Zurich
       year: Jun. 2023 - Dec. 2023
@@ -74,11 +77,11 @@
         - <u>Electronics:</u> EAGLE
         - <u>Version control tool:</u> Git 
         - <u>Operating system:</u> Linux, Windows, Mac OS
-        - <u>Other software tools:</u> ROS, Unity
-        - <u>Sensor experience:</u> IMU, force sensitive resistor (FSR), Depth/tracking camera, Ultra-wideband technology (UWB), in wheel encoder, Motion capture
-        - <u>Single board computer:</u> UP board, Raspberry pi, Jetson Nano/Xavier
+        - <u>Other software tools:</u> ROS1, ROS2, Unity, Docker
+        - <u>Sensor experience:</u> IMU, force sensitive resistor (FSR), Depth/tracking camera, 2D/3D lidar, Ultra-wideband technology (UWB), in wheel encoder, Motion capture
+        - <u>Single board computer:</u> UP board, Raspberry pi, Jetson Nano/Xavier/Orin
     - title: Ongoing knowledge/skill
-      items: Motion planning, Reinforcement learning, etc.
+      items: Reinforcement learning, etc.
 
 - title: Honors and Awards
   type: time_table

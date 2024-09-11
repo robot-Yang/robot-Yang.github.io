@@ -21,7 +21,7 @@ category: main projects
 </div>
 
 I developed a torso control interface which enables hands-free control with user’s natural upper-body movement for personal mobility devices. I built a support bar which was installed in front of the user’s waist level, the bar consists of both solid segment and soft segment. An array of force sensors was attached on the inner surface of the bar for detecting the pressure distribution of the human body. One IMU sensor was attached on the bar for detecting the bending angle of the user. An algorithm was developed for estimating the driving intention through pressure distribution and bending angle. A calibration algorithm was developed for different users. Different experiments have been conducted to verify the effectiveness of proposed torso control system.
-The basic methodology and validation of the proposed system was presented in {% cite torsoMHS torsoIROS%}, a recent version was presented in {% cite torso_humanoids%}, a complete description of the methodolody and validation of the improved torso control system will be submitted to IEEE/ASME Transactions on Mechatronics soon.
+The basic methodology and validation of the proposed system was presented in {% cite torsoMHS torsoIROS%}, a recent version was presented in {% cite torso_humanoids%}, a complete description of the methodolody and validation of the improved torso control system was presented in ICRA 2024 and submitted to IEEE/ASME Transactions on Mechatronics {% cite torsoicra2024 torsotmech%}.
 
 <b>Keywords</b>: Hands-free control, intention estimation, human-robot interface.  
 <b>Skills</b>:: Python, ROS, 3D modeling (Solidworks), dynamics, Kalman filter, Eagle, user study  

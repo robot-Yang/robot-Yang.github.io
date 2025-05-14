@@ -51,16 +51,19 @@
   type: time_table
   contents:
     - title: Post-doc
-      institution: University of Tsukuba
+      institution: École polytechnique fédérale de Lausanne (EPFL), Laboratory of Intelligent Systems
+      year: Apr. 2025 - Mar. 2026
+    - title: Post-doc
+      institution: University of Tsukuba, Artificial Intelligence Laboratory
       year: Apr. 2024 - Mar. 2025
     - title: Visiting post-doc
-      institution: ETH Zurich
+      institution: ETH Zurich, Spinal Cord Injury & Artificial Intelligence Lab
       year: Jun. 2023 - Dec. 2023
     - title: JSPS research fellow (PD)
-      institution: University of Tsukuba
+      institution: University of Tsukuba, Artificial Intelligence Laboratory
       year: Apr. 2023 - Mar. 2024
     - title: Research assistant
-      institution: University of Tsukuba
+      institution: University of Tsukuba, Artificial Intelligence Laboratory
       year: Apr. 2020 - Nov. 2022
       
 

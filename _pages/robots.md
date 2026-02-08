@@ -4,7 +4,7 @@ permalink: /robots/
 title: Robots I like
 description: A growing collection of robots I like.
 years: 
-nav: true
+nav: false
 nav_order: 5
 display_categories: [I worked on, Just like]
 horizontal: false

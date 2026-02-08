@@ -37,6 +37,60 @@ body.sticky-bottom-footer {
 
 
 /******************************************************************************
+ * Visitor map
+ ******************************************************************************/
+
+.visitor-map {
+  margin-top: 2.5rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--global-divider-color);
+}
+
+.visitor-map__title {
+  font-size: 1.25rem;
+  margin-bottom: 1rem;
+}
+
+.visitor-map__grid {
+  display: grid;
+  grid-template-columns: minmax(0, 2fr) minmax(0, 1fr);
+  gap: 1.25rem;
+  align-items: start;
+}
+
+.visitor-map__grid--single {
+  grid-template-columns: minmax(0, 1fr);
+}
+
+.visitor-map__grid--single .visitor-map__map {
+  width: 100%;
+  max-width: 320px;
+  margin: 0 auto;
+}
+
+.visitor-map__panel {
+  background: var(--global-card-bg-color);
+  border: 1px solid var(--global-divider-color);
+  border-radius: 0.5rem;
+  padding: 0.75rem;
+}
+
+.visitor-map__embed {
+  min-height: 140px;
+}
+
+@media (max-width: 768px) {
+  .visitor-map__grid {
+    grid-template-columns: 1fr;
+  }
+
+  .visitor-map__grid--single .visitor-map__map {
+    max-width: 100%;
+  }
+}
+
+
+/******************************************************************************
  * Publications
  ******************************************************************************/
 

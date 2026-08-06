@@ -1,0 +1,8 @@
+url: http://127.0.0.1:4000
+baseurl:
+
+# Keep local rebuilds fast and independent of external services.
+external_sources: []
+
+imagemagick:
+  enabled: false

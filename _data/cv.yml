@@ -50,9 +50,14 @@
 - title: Working Experience
   type: time_table
   contents:
+    - title: Chief Research Scientist
+      institution: SB Intuitions
+      year: Aug. 2026 - Present
+      description:
+        - Research on Physical AI
     - title: Post-doc
       institution: École polytechnique fédérale de Lausanne (EPFL), Laboratory of Intelligent Systems
-      year: Apr. 2025 - Mar. 2026
+      year: Apr. 2025 - Jul. 2026
     - title: Post-doc
       institution: University of Tsukuba, Artificial Intelligence Laboratory
       year: Apr. 2024 - Mar. 2025

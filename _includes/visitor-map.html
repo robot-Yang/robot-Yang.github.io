@@ -11,12 +11,24 @@
     min-height: 0;
     overflow: hidden;
   }
+
+  .visitor-map__frame {
+    display: block;
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    border: 0;
+  }
 </style>
 <section class="visitor-map" aria-label="Visitor locations and statistics">
   <div class="visitor-map__grid visitor-map__grid--single">
     <div class="visitor-map__panel visitor-map__map">
       <div class="visitor-map__embed">
-        <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=YX1YuVVEQOoLUyXKkwMAKV-XoncUWOCKtZjzAVZ2XCY&cl=ffffff&w=a"></script>
+        <iframe
+          class="visitor-map__frame"
+          src="{{ '/assets/visitor-map.html' | relative_url }}"
+          title="Visitor locations and statistics"
+          loading="lazy"
+        ></iframe>
       </div>
     </div>
   </div>
